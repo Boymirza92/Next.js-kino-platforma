@@ -1,0 +1,30 @@
+
+
+.navbar ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4rem;
+  color: #c7ffed;
+  list-style: none;
+}
+
+.navbar li {
+  display: inline;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  font-size: 25px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: rgb(13, 16, 28);
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: rgb(129, 135, 131);
+}
+
